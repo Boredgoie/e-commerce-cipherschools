@@ -2,12 +2,18 @@
 
 ## Screenshots
 
+![homepage](resources/homepage.png)
+![homepage search](resources/homepage-search.png)
+![product page](resources/productpage.png)
+![cart page](resources/cartpage.png)
+![login page](resources/loginpage.png)
+
 ## Setup
 
-Clone the repository from [GitHub]()
+Clone the repository from [GitHub](https://github.com/Boredgoie/e-commerce-cipherschools)
 
 ```bash
-git clone https://github.com/<>/e-commerce-cipherschools.git
+git clone https://github.com/Boredgoie/e-commerce-cipherschools.git
 ```
 
 Move to the directory & install dependencies
@@ -29,8 +35,7 @@ yarn start
 - [React.js](https://reactjs.org/) - Frontend Library
 - [Vite](https://vitejs.dev/) - Build Tool 
 - [Tailwind CSS](https://tailwindcss.com/) - CSS Framework
-- [GitHub Pages](https://pages.github.com/) - Web hosting
-- [GitHub Actions](https://help.github.com/actions/) - CI/CD
+- [Firebase Hosting](https://firebase.google.com/) - Web hosting
 
 ## Features
 
@@ -39,3 +44,7 @@ yarn start
 - User Cart
 - Shopping Items
 
+
+## License
+
+This project is licensed under [MIT License](LICENSE).
